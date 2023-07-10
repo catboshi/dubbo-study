@@ -1,0 +1,10 @@
+.project
+dubbo-consumer/.classpath
+dubbo-consumer/.settings
+dubbo-consumer/.gitignore
+dubbo-demo/.classpath
+dubbo-demo/.settings
+dubbo-demo/.gitignore
+dubbo-producer/.classpath
+dubbo-producer/.settings
+dubbo-producer/.gitignore
